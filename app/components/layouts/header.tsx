@@ -1,7 +1,7 @@
 import classNames from 'classnames';
 import Link from 'next/link';
-import { merryWeather, mukta } from '../fonts';
-import { SquareArrowLeftIcon } from './layouts/icons/square-arrow-left';
+import { merryWeather, mukta } from '../../fonts';
+import { SquareArrowLeftIcon } from './icons/square-arrow-left';
 
 export default function Header({ title }: { title: string }) {
 	return (
