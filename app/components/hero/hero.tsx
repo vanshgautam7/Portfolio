@@ -58,7 +58,7 @@ export default function Hero() {
 						</section>
 						<section className='relative z-10 flex flex-wrap gap-3 items-center text-sm pt-2'>
 							<a
-								href='/static/resume.pdf'
+								href='https://drive.google.com/file/d/1eYyHpIvI37vWdSKtz1MwrcF2A4W2d2Lr/view?usp=sharing'
 								target='_blank'
 								rel='noreferrer'
 								className='inline-flex items-center gap-2 rounded-full bg-primary-500 px-5 py-2.5 text-white font-semibold text-sm transition-all hover:bg-primary-600 hover:scale-105'
